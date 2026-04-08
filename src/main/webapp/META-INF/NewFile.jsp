@@ -1,0 +1,13 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"%>
+
+<html>
+<head>
+<title>Bus Booking</title>
+</head>
+
+<body>
+
+	<h1>Welcome to Bus Booking System</h1>
+
+</body>
+</html>
